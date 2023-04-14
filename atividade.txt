@@ -1,0 +1,95 @@
+Atividade 
+
+1 - 
+Registre o valor de X=4
+Registre o valor de Y=8
+Registre o valor de Z=3
+
+Some os valores de  X + Y
+se a soma for menor que Z exiba o resultado
+Senao exiba apenas o valor de Z
+Resultado Z=3!
+
+-----------------------------------------------------------------------------------------------------
+
+2- 
+
+Registre Nome= Joao
+Registre o Sexo = Masculino
+Registre o Estado civil = Casado
+Registre Tempo casado = 10 anos
+
+Registre Nome= Ana
+Registre o Sexo = Feminino
+Registre o Estado civil = Solteira
+Registre Tempo casado = 0 
+
+
+Se o tempo de casado do sexo F for >= ao sexo M exbia do resultado
+senao me responda com verdadeiro ou falso
+
+Falso.
+
+-----------------------------------------------------------------------------------------------------------------
+
+3 -
+Digite um numero= 7
+se o 7 for par exiba ele na tela
+senao exiba o numero 0
+
+0
+-----------------------------------------------------------------------------------------------------------------------------
+
+4-
+X = 5
+
+Y = 8
+
+Resultado=Z
+
+Se x e y for igual faça a soma dos dois
+senao multiplique X e Y e me mostre o resultado
+Z=40
+
+-------------------------------------------------------------------------------------------------------------------------------------
+5- 
+Registre 6
+Registre 2
+Registre 3
+
+Multiplique o 6 pelo 2 e depois multiplique o resultado por 3
+Imprima o resultado
+
+
+6-
+(essa eu nao entendi direito, dei uma viajada nas respostas)
+
+Uberlandia é uma cidade (V)
+
+Coca cola é azul (F)
+
+9 é par (F)
+
+12 < 6 (V)
+
+3 > 9 (F)
+
+
+7-
+
+Variavel Inteiro = 7
+
+Some  a variavel 7 + 8 e exiba o resultado da operaçao
+Resultado = 15
+
+(nao consegui pensar em algo diferente disso)
+--------------------------------------------------------------------------------------------------------------
+
+8-
+
+Registre o valor1= 12
+Registre o valor2= 34
+Registre o valor3= 10
+
+agora exiba o resultado dos valores valor1 valor2 valor3 em ordem decrescente
+34, 12, 10
